@@ -4,5 +4,5 @@ The Objective of this analysis is to help PyBer by creating a summary DataFrame 
 # Results: 
 As per the Summay Table below and also Chart below, we can conclude that most drivers are allocated in the Rural areas and the Average $ Per Ride and Per Driver are lower in the Rural areas, among the 3 city types analyzed.
 ![alt text](https://github.com/taiberkeley/Module_5_Challenge_Matplotlib/blob/main/PyBer_Summary_per_City_Type.png)
-
+![alt text](https://github.com/taiberkeley/Module_5_Challenge_Matplotlib/blob/main/Total_Fare_by_City_Type.png)
 # Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
